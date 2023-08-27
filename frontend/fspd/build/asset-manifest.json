@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93877b85.css",
+    "main.js": "/static/js/main.fa11502c.js",
+    "static/media/Banner.png": "/static/media/Banner.87062366f75bedd52bd2.png",
+    "static/media/banner.png": "/static/media/banner.80db2a895510dd2719aa.png",
+    "static/media/pitch-logo.svg": "/static/media/pitch-logo.9394037d9a0391bb7c748eb4e98a1ddc.svg",
+    "index.html": "/index.html",
+    "main.93877b85.css.map": "/static/css/main.93877b85.css.map",
+    "main.fa11502c.js.map": "/static/js/main.fa11502c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93877b85.css",
+    "static/js/main.fa11502c.js"
+  ]
+}
